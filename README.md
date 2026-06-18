@@ -32,3 +32,7 @@ Nota: O símbolo muda dependendo da linguagem (algumas usam a função pow()).
 7. Incremento (++) e Decremento (--)
 Usados para somar ou subtrair 1 de uma variável de forma rápida.
 Exemplo: Se x = 5, após rodar x++, o valor de x passa a ser 6.
+
+
+<img width="327" height="112" alt="image" src="https://github.com/user-attachments/assets/bf616fa7-0693-4206-979c-54ee07f83fd4" />
+
